@@ -25,12 +25,14 @@ Education:
 
 Selected Projects
 ======
-[Airbnb Recommendation System](https://github.com/Jessicalllll/AirbnbRecommendation)
+## [Airbnb Recommendation System](https://github.com/Jessicalllll/AirbnbRecommendation)
 
-This project is designed to enhance user experience by providing personalized accommodation suggestions. By leveraging a combination of machine learning models—popularity-based, collaborative filtering, content-based, and hybrid approaches—the system accurately matches user preferences with available properties. The interactive dashboard, built with Dash and Plotly, allows users to dynamically adjust their preferences and receive immediate updates on recommendations. The project aims to improve precision in property matches, setting a benchmark for future enhancements in personalized travel planning.
-
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+<p align="left">
+  In the rapidly evolving short-term rental market, Airbnb users often struggle to find accommodations that precisely match their preferences and budget constraints. To address this issue, our team developed an Airbnb Recommendation System designed to enhance user experience and satisfaction by personalizing search results more precisely.
+</p>
+<p align="right">
+  <img src="URL_OF_YOUR_IMAGE" alt="Dashboard Image" width="300"/>
+</p>
 
 Getting started
 ======
