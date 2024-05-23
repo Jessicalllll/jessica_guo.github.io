@@ -26,16 +26,9 @@ Education:
 Selected Projects
 ======
 ## [Airbnb Recommendation System](https://github.com/Jessicalllll/AirbnbRecommendation)
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <p>
-      This project is an Airbnb Recommendation System designed to enhance user experience by providing personalized accommodation suggestions. By leveraging a combination of machine learning models—popularity-based, collaborative filtering, content-based, and hybrid approaches—the system accurately matches user preferences with available properties.
-    </p>
-  </div>
-  <div>
-    <img src="images/airbnb.webp" alt="Dashboard Image" width="300"/>
-  </div>
-</div>
+![pictures](images/airbnb.webp){: .align-right width="300px"}
+
+This project is an Airbnb Recommendation System designed to enhance user experience by providing personalized accommodation suggestions. By leveraging a combination of machine learning models—popularity-based, collaborative filtering, content-based, and hybrid approaches—the system accurately matches user preferences with available properties.
 
 Getting started
 ======
