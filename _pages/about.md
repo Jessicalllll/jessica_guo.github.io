@@ -31,7 +31,7 @@ Selected Projects
   In the rapidly evolving short-term rental market, Airbnb users often struggle to find accommodations that precisely match their preferences and budget constraints. To address this issue, our team developed an Airbnb Recommendation System designed to enhance user experience and satisfaction by personalizing search results more precisely.
 </p>
 <p align="right">
-  <img src="URL_OF_YOUR_IMAGE" alt="Dashboard Image" width="300"/>
+  <img src="images/airbnb.webp" alt="Dashboard Image" width="300"/>
 </p>
 
 Getting started
