@@ -22,19 +22,19 @@ Education:
 
 ## Work Experience
 **Data Analyst Intern @ Canadian Solar Inc. (_Walnut Creek, CA | May 2023 - July 2023_)**
-- <span style="font-size: 15px;">Developed a custom Excel macro, reducing report preparation time by 70%, optimizing resource allocation.</span>
-- Implemented rigorous data validation in Python, resulting in a 20% reduction in forecasting errors, improving data accuracy.
-- Crafted and deployed interactive Power BI dashboards for analysts to compare average inbound lead time with different storage locations, enhancing data-driven decision-making.
+- <span style="font-size: 16px;">Developed a custom Excel macro, reducing report preparation time by 70%, optimizing resource allocation.</span>
+- <span style="font-size: 16px;">Implemented rigorous data validation in Python, resulting in a 20% reduction in forecasting errors, improving data accuracy.</span>
+- <span style="font-size: 16px;">Crafted and deployed interactive Power BI dashboards for analysts to compare average inbound lead time with different storage locations, enhancing data-driven decision-making.</span>
 
 **Data Engineer Intern @ Gotion Inc. (_Fremont, CA | May 2022 – August 2022_)**
-- Devised Python-based solutions to decode CAN log files, extracting vital operational insights.
-- Led the creation of Grafana dashboards for real-time battery data analysis, enabling real-time monitoring and analysis of critical business metrics, resulting in a 30% improvement in tracking key metrics.
-- Built an AWS-based ETL pipeline, enhancing data management and workflow efficiency.
-- Streamlined data analysis using SQL, expediting decision-making processes.
+- <span style="font-size: 16px;">Devised Python-based solutions to decode CAN log files, extracting vital operational insights.</span>
+- <span style="font-size: 16px;">Led the creation of Grafana dashboards for real-time battery data analysis, enabling real-time monitoring and analysis of critical business metrics, resulting in a 30% improvement in tracking key metrics.</span>
+- <span style="font-size: 16px;">Built an AWS-based ETL pipeline, enhancing data management and workflow efficiency.</span>
+- <span style="font-size: 16px;">Streamlined data analysis using SQL, expediting decision-making processes.</span>
 
 **Data Analytic Intern @ RallyCry Ventures (_Cambridge, MA | January 2021 – March 2021_)**
-- Researched and uncovered early-stage startup companies that fit RallyCry's investment criteria
-- Used data operations and visualization tools like SQL and Excel to analyze real-world data on startups
+- <span style="font-size: 16px;">Researched and uncovered early-stage startup companies that fit RallyCry's investment criteria</span>
+- <span style="font-size: 16px;">Used data operations and visualization tools like SQL and Excel to analyze real-world data on startups</span>
 
 
 Selected Projects
