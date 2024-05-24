@@ -20,11 +20,11 @@ Education:
 - 🎓 Master of Analytics @ University of California, Berkeley
 - 🎓 B.A. in Data Science @ University of California, Berkeley
 
-## Work Experience
-#### **Data Analyst Intern @ Canadian Solar Inc. (_Walnut Creek, CA | May 2023 - July 2023_)**
-#### - Developed a custom Excel macro, reducing report preparation time by 70%, optimizing resource allocation.
-#### - Implemented rigorous data validation in Python, resulting in a 20% reduction in forecasting errors, improving data accuracy.
-#### - Crafted and deployed interactive Power BI dashboards for analysts to compare average inbound lead time with different storage locations, enhancing data-driven decision-making.
+#### Work Experience
+**Data Analyst Intern @ Canadian Solar Inc. (_Walnut Creek, CA | May 2023 - July 2023_)**
+- Developed a custom Excel macro, reducing report preparation time by 70%, optimizing resource allocation.
+- Implemented rigorous data validation in Python, resulting in a 20% reduction in forecasting errors, improving data accuracy.
+- Crafted and deployed interactive Power BI dashboards for analysts to compare average inbound lead time with different storage locations, enhancing data-driven decision-making.
 
 **Data Engineer Intern @ Gotion Inc. (_Fremont, CA | May 2022 – August 2022_)**
 - Devised Python-based solutions to decode CAN log files, extracting vital operational insights.
