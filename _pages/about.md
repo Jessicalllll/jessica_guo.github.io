@@ -49,7 +49,6 @@ This project is an Airbnb Recommendation System designed to enhance user experie
 
 This project, the Automated Waste Classification System, utilizes advanced machine learning techniques to accurately classify different types of waste, such as paper, plastic, glass, and metal. This system aims to enhance waste management practices by promoting recycling and reducing landfill waste. By implementing models like Multilayer Perceptron (MLP), Vision Transformer (ViT), and Convolutional Neural Networks (CNN), we achieve high accuracy and reliability in waste classification. This innovative approach addresses critical environmental challenges, fostering a more sustainable future.
 
-
 ## [IMF PRGT Funding Classifier](https://github.com/Jessicalllll/IMF_PRGT_Funding_Classifier)
 ![pictures](images/IMF.webp){: .align-right width="300px"}
 
