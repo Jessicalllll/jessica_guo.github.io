@@ -22,7 +22,7 @@ Education:
 
 ## Work Experience
 **Data Analyst Intern @ Canadian Solar Inc. (_Walnut Creek, CA | May 2023 - July 2023_)**
-- <span style="font-size: 8px;">Developed a custom Excel macro, reducing report preparation time by 70%, optimizing resource allocation.</span>
+- <span style="font-size: 11px;">Developed a custom Excel macro, reducing report preparation time by 70%, optimizing resource allocation.</span>
 - Implemented rigorous data validation in Python, resulting in a 20% reduction in forecasting errors, improving data accuracy.
 - Crafted and deployed interactive Power BI dashboards for analysts to compare average inbound lead time with different storage locations, enhancing data-driven decision-making.
 
