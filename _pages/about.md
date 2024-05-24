@@ -54,3 +54,4 @@ This project, the Automated Waste Classification System, utilizes advanced machi
 ![pictures](images/IMF.webp){: .align-right width="300px"}
 
 The IMF PRGT Funding Classifier project aims to streamline the process of assessing eligibility for concessional loans under the Poverty Reduction and Growth Trust (PRGT) program. By leveraging advanced machine learning techniques, the project builds predictive models that analyze economic and financial indicators to determine which low-income countries are likely to qualify for zero-interest loans from the International Monetary Fund (IMF). This automated approach enhances efficiency, reduces manual review time, and ensures a more systematic evaluation process, ultimately supporting sustainable development and financial stability in eligible countries.
+
