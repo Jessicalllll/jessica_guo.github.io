@@ -31,7 +31,7 @@ Selected Projects
 This project is an Airbnb Recommendation System designed to enhance user experience by providing personalized accommodation suggestions. By leveraging a combination of machine learning models—popularity-based, collaborative filtering, content-based, and hybrid approaches—the system accurately matches user preferences with available properties. The interactive dashboard, built with Dash and Plotly, allows users to dynamically adjust their preferences and receive immediate updates on recommendations. 
 
 ## [Waste Classification](https://github.com/Jessicalllll/WasteClassification)
-![pictures](images/airbnb.webp){: .align-right width="300px"}
+![pictures](images/Wasteclass.webp){: .align-right width="300px"}
 
 Our project, the Automated Waste Classification System, utilizes advanced machine learning techniques to accurately classify different types of waste, such as paper, plastic, glass, and metal. This system aims to enhance waste management practices by promoting recycling and reducing landfill waste. By implementing models like Multilayer Perceptron (MLP), Vision Transformer (ViT), and Convolutional Neural Networks (CNN), we achieve high accuracy and reliability in waste classification. This innovative approach addresses critical environmental challenges, fostering a more sustainable future.
 
