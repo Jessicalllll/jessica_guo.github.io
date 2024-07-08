@@ -27,7 +27,7 @@ Education:
 - <span style="font-size: 16px;">Created a custom algorithm to estimate the real-world area of detected LED screens, leveraging the dimensions of nearby known objects for accuracy.</span>
 
 **Data Analyst Intern @ Canadian Solar Inc. (_Walnut Creek, CA | May 2023 - July 2023_)**
-- <span style="font-size: 16px;">Developed a custom Excel macro, reducing report preparation time from 8 hours to one hour.</span>
+- <span style="font-size: 16px;">Developed a custom Excel macro, reducing report preparation time from 8 hours to 1 hour.</span>
 - <span style="font-size: 16px;">Implemented rigorous model validation using Random Forest, XGBoost, etc models in Python, resulting in a reduction of forecasting errors from 25% to 10%.</span>
 - <span style="font-size: 16px;">Crafted and deployed interactive Power BI dashboards for analysts to compare average inbound lead time with different storage locations, enhancing data-driven decision-making.</span>
 
