@@ -21,16 +21,21 @@ Education:
 - 🎓 B.A. in Data Science @ University of California, Berkeley
 
 ## Work Experience
+**Data Analyst Intern @ Synergies Intelligent Systems, Inc. (_Boston, NY | June 2024 - Present_)**
+- <span style="font-size: 16px;">Built a comprehensive dataset by extracting and preprocessing data from the COCO dataset and Open Images Dataset v7, focusing on images containing LED screens and various reference objects.</span>
+- <span style="font-size: 16px;">Utilized YOLOv8 to accurately identify and locate LED screens and nearby reference objects within images.</span>
+- <span style="font-size: 16px;">Created a custom algorithm to estimate the real-world area of detected LED screens, leveraging the dimensions of nearby known objects for accuracy.</span>
+
 **Data Analyst Intern @ Canadian Solar Inc. (_Walnut Creek, CA | May 2023 - July 2023_)**
-- <span style="font-size: 16px;">Developed a custom Excel macro, reducing report preparation time by 70%, optimizing resource allocation.</span>
-- <span style="font-size: 16px;">Implemented rigorous data validation in Python, resulting in a 20% reduction in forecasting errors, improving data accuracy.</span>
+- <span style="font-size: 16px;">Developed a custom Excel macro, reducing report preparation time from 8 hours to one hour.</span>
+- <span style="font-size: 16px;">Implemented rigorous model validation using Random Forest, XGBoost, etc models in Python, resulting in a reduction of forecasting errors from 25% to 10%.</span>
 - <span style="font-size: 16px;">Crafted and deployed interactive Power BI dashboards for analysts to compare average inbound lead time with different storage locations, enhancing data-driven decision-making.</span>
 
 **Data Engineer Intern @ Gotion Inc. (_Fremont, CA | May 2022 – August 2022_)**
 - <span style="font-size: 16px;">Devised Python-based solutions to decode CAN log files, extracting vital operational insights.</span>
-- <span style="font-size: 16px;">Led the creation of Grafana dashboards for real-time battery data analysis, enabling real-time monitoring and analysis of critical business metrics, resulting in a 30% improvement in tracking key metrics.</span>
-- <span style="font-size: 16px;">Built an AWS-based ETL pipeline, enhancing data management and workflow efficiency.</span>
-- <span style="font-size: 16px;">Streamlined data analysis using SQL, expediting decision-making processes.</span>
+- <span style="font-size: 16px;">Spearheaded the creation of Grafana dashboards for real-time battery data analysis, enabling effective monitoring and analysis of critical business metrics.</span>
+- <span style="font-size: 16px;">Built an AWS-based ETL pipeline to enhance data management and workflow efficiency.</span>
+- <span style="font-size: 16px;">Crafted SQL queries for integration into Grafana dashboards.</span>
 
 **Data Analytic Intern @ RallyCry Ventures (_Cambridge, MA | January 2021 – March 2021_)**
 - <span style="font-size: 16px;">Researched and uncovered early-stage startup companies that fit RallyCry's investment criteria</span>
