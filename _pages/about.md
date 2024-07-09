@@ -23,19 +23,19 @@ Education:
 ## Work Experience
 **Data Analyst Intern @ Synergies Intelligent Systems, Inc. (_Boston, NY | June 2024 - Present_)**
 - <span style="font-size: 16px;">Built a comprehensive dataset by extracting and preprocessing data from the COCO dataset and Open Images Dataset v7, focusing on images containing LED screens and various reference objects.</span>
-- <span style="font-size: 16px;">Utilized YOLOv8 to accurately identify and locate LED screens and nearby reference objects within images, improving object detection accuracy by 24.3%.</span>
-- <span style="font-size: 16px;">Created a custom algorithm to estimate the real-world area of detected LED screens, leveraging the dimensions of nearby known objects for accuracy, reducing estimation errors by 13%.</span>
+- <span style="font-size: 16px;">Utilized YOLOv8 to accurately identify and locate LED screens and nearby reference objects within images,  reducing object detection error by 13.3%.</span>
+- <span style="font-size: 16px;">Utilized the dimensions of reference objects to improve LED screen area estimation accuracy by 22%, applying homography and object detection techniques to achieve precise real-world measurements.</span>
 
 **Data Analyst Intern @ Canadian Solar Inc. (_Walnut Creek, CA | May 2023 - July 2023_)**
 - <span style="font-size: 16px;">Developed a custom Excel macro, reducing report preparation time from 8 hours to 1 hour.</span>
-- <span style="font-size: 16px;">Implemented rigorous model validation using Random Forest, XGBoost, etc models in Python, resulting in a reduction of forecasting errors from 23% to 8%.</span>
-- <span style="font-size: 16px;">Crafted and deployed interactive Power BI dashboards for analysts to compare average inbound lead time with different storage locations, enhancing data-driven decision-making.</span>
+- <span style="font-size: 16px;">Implemented model validation using Random Forest, XGBoost, etc., in Python to predict average inbound lead time with different storage locations, resulting in a reduction of forecasting errors from 23% to 8%.</span>
+- <span style="font-size: 16px;">Crafted and deployed interactive Power BI dashboards for analysts to compare lead time, enhancing data-driven decision-making.</span>
 
 **Data Engineer Intern @ Gotion Inc. (_Fremont, CA | May 2022 – August 2022_)**
-- <span style="font-size: 16px;">Devised Python-based solutions to decode CAN log files, extracting vital operational insights.</span>
-- <span style="font-size: 16px;">Spearheaded the creation of Grafana dashboards for real-time battery data analysis, enabling effective monitoring and analysis of critical business metrics.</span>
-- <span style="font-size: 16px;">Built an AWS-based ETL pipeline to enhance data management and workflow efficiency.</span>
-- <span style="font-size: 16px;">Crafted SQL queries for integration into Grafana dashboards.</span>
+- <span style="font-size: 16px;">Led the creation of Grafana dashboards for real-time battery data analysis, boosting operational efficiency by 18%.</span>
+- <span style="font-size: 16px;">Built an AWS-based ETL pipeline processing 500,000+ data points daily, enhancing data management.</span>
+- <span style="font-size: 16px;">Crafted optimized SQL queries for Grafana dashboards.</span>
+- <span style="font-size: 16px;">Developed Python solutions to decode CAN (Controller Area Network), used in automotive electronics.</span>
 
 **Data Analytic Intern @ RallyCry Ventures (_Cambridge, MA | January 2021 – March 2021_)**
 - <span style="font-size: 16px;">Researched and uncovered early-stage startup companies that fit RallyCry's investment criteria</span>
