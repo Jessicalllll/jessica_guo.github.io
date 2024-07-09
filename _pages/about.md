@@ -24,12 +24,12 @@ Education:
 **Data Analyst Intern @ Synergies Intelligent Systems, Inc. (_Boston, NY | June 2024 - Present_)**
 - <span style="font-size: 16px;">Built a comprehensive dataset by extracting and preprocessing data from the COCO dataset and Open Images Dataset v7, focusing on images containing LED screens and various reference objects.</span>
 - <span style="font-size: 16px;">Utilized YOLOv8 to accurately identify and locate LED screens and nearby reference objects within images,  reducing object detection error by 13.3%.</span>
-- <span style="font-size: 16px;">Utilized the dimensions of reference objects to improve LED screen area estimation accuracy by 22%, applying homography and object detection techniques to achieve precise real-world measurements.</span>
+- <span style="font-size: 16px;">Leveraged the dimensions of reference objects to improve LED screen area estimation accuracy by 22%, applying homography and object detection techniques to achieve precise real-world measurements.</span>
 
 **Data Analyst Intern @ Canadian Solar Inc. (_Walnut Creek, CA | May 2023 - July 2023_)**
-- <span style="font-size: 16px;">Developed a custom Excel macro, reducing report preparation time from 8 hours to 1 hour.</span>
+- <span style="font-size: 16px;">Created a custom Excel macro, reducing report preparation time from 8 hours to 1 hour.</span>
 - <span style="font-size: 16px;">Implemented model validation using Random Forest, XGBoost, etc., in Python to predict average inbound lead time with different storage locations, resulting in a reduction of forecasting errors from 23% to 8%.</span>
-- <span style="font-size: 16px;">Crafted and deployed interactive Power BI dashboards for analysts to compare lead time, enhancing data-driven decision-making.</span>
+- <span style="font-size: 16px;">Deployed interactive Power BI dashboards for analysts to compare lead time, enhancing data-driven decision-making.</span>
 
 **Data Engineer Intern @ Gotion Inc. (_Fremont, CA | May 2022 – August 2022_)**
 - <span style="font-size: 16px;">Led the creation of Grafana dashboards for real-time battery data analysis, boosting operational efficiency by 18%.</span>
