@@ -26,7 +26,7 @@ Education:
 - <span style="font-size: 16px;">Analyzed weekly POS data to generate performance insights, identifying key drivers of sales fluctuations and informing actionable strategies.</span>
 - <span style="font-size: 16px;">Automated reporting workflows for weekly POS data and monthly Supplier Business Plan (SBP) using Excel macros, improving process efficiency and accuracy.</span>
 
-**Data Analyst Intern @ Synergies Intelligent Systems, Inc. (_Boston, NY | June 2024 - Present_)**
+**Data Analyst Intern @ Synergies Intelligent Systems, Inc. (_Boston, NY | June 2024 - October 2024)**
 - <span style="font-size: 16px;">Built a comprehensive dataset by extracting and preprocessing data from the COCO dataset and Open Images Dataset v7, focusing on images containing LED screens and various reference objects.</span>
 - <span style="font-size: 16px;">Utilized YOLOv8 to accurately identify and locate LED screens and nearby reference objects within images,  reducing object detection error by 13.3%.</span>
 - <span style="font-size: 16px;">Leveraged the dimensions of reference objects to improve LED screen area estimation accuracy by 22%, applying homography and object detection techniques to achieve precise real-world measurements.</span>
