@@ -21,6 +21,11 @@ Education:
 - 🎓 B.A. in Data Science @ University of California, Berkeley
 
 ## Work Experience
+**Data Analyst @ Intex Recreation Corp. (_Long Beach, CA | October 2024 - Present_)**
+- <span style="font-size: 16px;">Developed predictive models leveraging Prophet, Gradient Boosting, and Random Forest to forecast Intex airbed sales at Target, driving strategic decision-making and resource allocation.</span>
+- <span style="font-size: 16px;">Analyzed weekly POS data to generate performance insights, identifying key drivers of sales fluctuations and informing actionable strategies.</span>
+- <span style="font-size: 16px;">Automated reporting workflows for weekly POS data and monthly Supplier Business Plan (SBP) using Excel macros, improving process efficiency and accuracy.</span>
+
 **Data Analyst Intern @ Synergies Intelligent Systems, Inc. (_Boston, NY | June 2024 - Present_)**
 - <span style="font-size: 16px;">Built a comprehensive dataset by extracting and preprocessing data from the COCO dataset and Open Images Dataset v7, focusing on images containing LED screens and various reference objects.</span>
 - <span style="font-size: 16px;">Utilized YOLOv8 to accurately identify and locate LED screens and nearby reference objects within images,  reducing object detection error by 13.3%.</span>
