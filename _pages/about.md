@@ -54,7 +54,7 @@ MLflow (learning)
 Selected Projects
 ======
 ## [Contextual Ad Relevance Scorer](https://github.com/Jessicalllll/contextual-ad-relevance-scorer)
-![pictures](images/contextual_ad.webp){: .align-right width="300px"}
+![pictures](images/contextual_ad.png){: .align-right width="300px"}
 
 Privacy-first ad matching engine with full MLOps monitoring layer.
 Built TF-IDF + cosine similarity matching pipeline, drift detection system across three dimensions, experiment tracker, and 4-week 
