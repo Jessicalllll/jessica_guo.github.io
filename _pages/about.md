@@ -8,16 +8,11 @@ redirect_from:
 ---
 
 
-I'm a Data Scientist with 16 months of production experience building end-to-end ML systems that drive real business decisions. I specialize in time series forecasting, scalable data pipelines, and translating complex model outputs into actionable insights for cross-functional teams.
+**Currently:** Data Analyst @ Intex Recreation Corp — end-to-end 
+demand forecasting systems, 18% accuracy improvement, $2.4M annual impact
 
-I don't just build models — I build systems that work reliably in the real world.
-
-Currently at Intex Recreation Corp, previously interned across computer vision, supply chain ML, and cloud data engineering. UC Berkeley Master of Analytics, 4.0 GPA.
-
-Interests:
-- Machine Learning
-- Deep Learning
-- Data Science
+**Interests:** Production ML · Time Series Forecasting · 
+Contextual Advertising · MLOps · Large-Scale Data Systems
 
 Education:
 - 🎓 Master of Analytics @ University of California, Berkeley
@@ -58,6 +53,16 @@ MLflow (learning)
 
 Selected Projects
 ======
+## [Contextual Ad Relevance Scorer](https://github.com/Jessicalllll/contextual-ad-relevance-scorer)
+![pictures](images/contextual_ad.webp){: .align-right width="300px"}
+
+Privacy-first ad matching engine with full MLOps monitoring layer.
+Built TF-IDF + cosine similarity matching pipeline, drift detection system across three dimensions, experiment tracker, and 4-week 
+production lifecycle simulation showing deploy → monitor → retrain → recover. Zero user data — purely content-based contextual targeting.
+
+**Tech:** Python · TF-IDF · Cosine Similarity · Drift Detection · 
+MLOps · Experiment Tracking
+
 ## [Airbnb Recommendation System](https://github.com/Jessicalllll/AirbnbRecommendation)
 ![pictures](images/airbnb.webp){: .align-right width="300px"}
 
