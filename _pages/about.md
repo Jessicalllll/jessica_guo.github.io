@@ -7,9 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-- I'm a recent graduate from UC Berkeley with a Master's degree in Analytics. 
 
-- I have a strong passion for data science and a proven track record of leveraging data to drive decision-making and improve business processes.
+I'm a Data Scientist with 16 months of production experience building end-to-end ML systems that drive real business decisions. I specialize in time series forecasting, scalable data pipelines, and translating complex model outputs into actionable insights for cross-functional teams.
+
+I don't just build models — I build systems that work reliably in the real world.
+
+Currently at Intex Recreation Corp, previously interned across computer vision, supply chain ML, and cloud data engineering. UC Berkeley Master of Analytics, 4.0 GPA.
 
 Interests:
 - Machine Learning
@@ -22,29 +25,24 @@ Education:
 
 ## Work Experience
 **Data Analyst @ Intex Recreation Corp. (_Long Beach, CA | October 2024 - Present_)**
-- <span style="font-size: 16px;">Developed predictive models leveraging Prophet, Gradient Boosting, and Random Forest to forecast Intex airbed sales at Target, driving strategic decision-making and resource allocation.</span>
-- <span style="font-size: 16px;">Analyzed weekly POS data to generate performance insights, identifying key drivers of sales fluctuations and informing actionable strategies.</span>
-- <span style="font-size: 16px;">Automated reporting workflows for weekly POS data and monthly Supplier Business Plan (SBP) using Excel macros, improving process efficiency and accuracy.</span>
+- <span style="font-size: 16px;">Built end-to-end demand forecasting system using Prophet, ARIMA, and LSTM on millions of transaction-level records; improved forecast accuracy by 18%.</span>
+- <span style="font-size: 16px;">Designed modular data pipelines in Python and SQL separating ingestion, feature engineering, model training, and reporting layers for maintainability and reusability.</span>
+- <span style="font-size: 16px;">Implemented monitoring layer tracking rolling accuracy metrics (MAPE, bias) and input feature distributions to detect drift and trigger retraining cycles.</span>
+- <span style="font-size: 16px;">Modeled promotion-driven demand lift using causal analysis to isolate incremental sales impact from seasonal trends; reduced overstock risk by 15% (~$2.4M annual cost impact).</span>
+- <span style="font-size: 16px;">Partnered with merchandising and marketing teams to operationalize model outputs into actionable inventory and pricing decisions.</span>
 
 **Data Analyst Intern @ Synergies Intelligent Systems, Inc. (_Boston, NY | June 2024 - October 2024)**
-- <span style="font-size: 16px;">Built a comprehensive dataset by extracting and preprocessing data from the COCO dataset and Open Images Dataset v7, focusing on images containing LED screens and various reference objects.</span>
-- <span style="font-size: 16px;">Utilized YOLOv8 to accurately identify and locate LED screens and nearby reference objects within images,  reducing object detection error by 13.3%.</span>
-- <span style="font-size: 16px;">Leveraged the dimensions of reference objects to improve LED screen area estimation accuracy by 22%, applying homography and object detection techniques to achieve precise real-world measurements.</span>
+- <span style="font-size: 16px;">Built end-to-end computer vision pipeline using PyTorch and OpenCV with YOLOv8 object detection; reduced detection error by 13.3% and improved measurement accuracy by 22%.</span>
+- <span style="font-size: 16px;">Enabled rapid retraining and deployment across multiple devices by designing a modular, production-ready ML pipeline architecture.</span>
 
 **Data Analyst Intern @ Canadian Solar Inc. (_Walnut Creek, CA | May 2023 - July 2023_)**
-- <span style="font-size: 16px;">Created a custom Excel macro, reducing report preparation time from 8 hours to 1 hour.</span>
-- <span style="font-size: 16px;">Implemented model validation using Random Forest, XGBoost, etc., in Python to predict average inbound lead time with different storage locations, resulting in a reduction of forecasting errors from 23% to 8%.</span>
-- <span style="font-size: 16px;">Deployed interactive Power BI dashboards for analysts to compare lead time, enhancing data-driven decision-making.</span>
+- <span style="font-size: 16px;">Reduced supply chain forecasting error from 23% to 8% using XGBoost and Random Forest models to predict inbound lead time across storage locations.</span>
+- <span style="font-size: 16px;">Built interactive Power BI dashboards for scenario modeling and campaign performance tracking used by analysts and managers.</span>
 
 **Data Engineer Intern @ Gotion Inc. (_Fremont, CA | May 2022 – August 2022_)**
-- <span style="font-size: 16px;">Led the creation of Grafana dashboards for real-time battery data analysis, boosting operational efficiency by 18%.</span>
-- <span style="font-size: 16px;">Built an AWS-based ETL pipeline processing 500,000+ data points daily, enhancing data management.</span>
-- <span style="font-size: 16px;">Crafted optimized SQL queries for Grafana dashboards.</span>
-- <span style="font-size: 16px;">Developed Python solutions to decode CAN (Controller Area Network), used in automotive electronics.</span>
-
-**Data Analytic Intern @ RallyCry Ventures (_Cambridge, MA | January 2021 – March 2021_)**
-- <span style="font-size: 16px;">Researched and uncovered early-stage startup companies that fit RallyCry's investment criteria</span>
-- <span style="font-size: 16px;">Used data operations and visualization tools like SQL and Excel to analyze real-world data on startups</span>
+- <span style="font-size: 16px;">Built AWS-based ETL pipeline (S3, Lambda) processing 500,000+ daily records for EV battery telemetry data.</span>
+- <span style="font-size: 16px;">Designed Grafana dashboards for real-time battery monitoring, boosting operational efficiency by 18%.</span>
+- <span style="font-size: 16px;">Developed Python scripts to decode CAN bus data used in automotive electronics.</span>
 
 
 Selected Projects
