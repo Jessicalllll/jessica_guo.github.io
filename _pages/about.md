@@ -44,6 +44,17 @@ Education:
 - <span style="font-size: 16px;">Designed Grafana dashboards for real-time battery monitoring, boosting operational efficiency by 18%.</span>
 - <span style="font-size: 16px;">Developed Python scripts to decode CAN bus data used in automotive electronics.</span>
 
+## Skills
+
+**Languages & Tools:** Python (Pandas, NumPy, scikit-learn, PyTorch), SQL
+**Machine Learning:** Time Series (ARIMA, Prophet, LSTM), Tree-based 
+Models (XGBoost, Random Forest), Deep Learning (CNNs, BERT, YOLOv8)
+**Data Engineering & Cloud:** AWS (S3, Lambda), ETL Pipelines, dbt, 
+Airflow, Databricks (learning), Spark (learning)
+**MLOps:** Model monitoring, drift detection, experiment tracking, 
+MLflow (learning)
+**Visualization:** Tableau, Power BI, Plotly/Dash, Grafana
+
 
 Selected Projects
 ======
