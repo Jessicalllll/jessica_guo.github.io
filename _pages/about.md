@@ -7,12 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+I'm a Data Scientist specializing in production ML systems, time series forecasting, and large-scale data pipelines. Currently building end-to-end forecasting infrastructure and MLOps tooling that drives real business decisions.
 
-**Currently:** Data Analyst @ Intex Recreation Corp — end-to-end 
-demand forecasting systems, 18% accuracy improvement, $2.4M annual impact
-
-**Interests:** Production ML · Time Series Forecasting · 
-Contextual Advertising · MLOps · Large-Scale Data Systems
+**Currently:** Data Analyst @ Intex Recreation Corp — end-to-end demand forecasting systems, 18% accuracy improvement, $2.4M annual impact<br>
+**Focus Areas:** Production ML · Time Series Forecasting · Contextual Advertising · MLOps · Large-Scale Data Systems
 
 Education:
 - 🎓 Master of Analytics @ University of California, Berkeley
@@ -41,13 +39,10 @@ Education:
 
 ## Skills
 
-**Languages & Tools:** Python (Pandas, NumPy, scikit-learn, PyTorch), SQL
-**Machine Learning:** Time Series (ARIMA, Prophet, LSTM), Tree-based 
-Models (XGBoost, Random Forest), Deep Learning (CNNs, BERT, YOLOv8)
-**Data Engineering & Cloud:** AWS (S3, Lambda), ETL Pipelines, dbt, 
-Airflow, Databricks (learning), Spark (learning)
-**MLOps:** Model monitoring, drift detection, experiment tracking, 
-MLflow (learning)
+**Languages & Tools:** Python (Pandas, NumPy, scikit-learn, PyTorch), SQL<br>
+**Machine Learning:** Time Series (ARIMA, Prophet, LSTM), Tree-based Models (XGBoost, Random Forest), Deep Learning (CNNs, BERT, YOLOv8)<br>
+**Data Engineering & Cloud:** AWS (S3, Lambda), ETL Pipelines, dbt, Airflow, Databricks (learning), Spark (learning)<br>
+**MLOps:** Model monitoring, drift detection, experiment tracking, MLflow (learning)<br>
 **Visualization:** Tableau, Power BI, Plotly/Dash, Grafana
 
 
