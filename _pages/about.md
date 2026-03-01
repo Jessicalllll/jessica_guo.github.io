@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Data Scientist specializing in production ML systems, time series forecasting, and large-scale data pipelines. Currently building end-to-end forecasting infrastructure and MLOps tooling that drives real business decisions.
-
 <br>
+
+I'm a Data Scientist specializing in production ML systems, time series forecasting, and large-scale data pipelines. Currently building end-to-end forecasting infrastructure and MLOps tooling that drives real business decisions.
 
 **Currently:** Data Analyst @ Intex Recreation Corp — end-to-end demand forecasting systems, 18% accuracy improvement, $2.4M annual impact<br>
 **Focus Areas:** Production ML · Time Series Forecasting · Contextual Advertising · MLOps · Large-Scale Data Systems
